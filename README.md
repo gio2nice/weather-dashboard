@@ -18,6 +18,11 @@ In this project, we were asked to create a weather dashboard using the Openweath
 *WHEN I click on a city in the search history
 *THEN I am again presented with current and future conditions for that city
 
+## Screenshot
+![Screen Shot 2022-09-05 at 3 45 17 PM](https://user-images.githubusercontent.com/106710271/188518401-c6b9dc28-7a12-4a55-8b80-ff09af0a8460.png)
+
+
+
 ### Licensing
 
 MIT License
