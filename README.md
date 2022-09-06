@@ -21,6 +21,11 @@ In this project, we were asked to create a weather dashboard using the Openweath
 ## Screenshot
 ![Screen Shot 2022-09-05 at 3 45 17 PM](https://user-images.githubusercontent.com/106710271/188518401-c6b9dc28-7a12-4a55-8b80-ff09af0a8460.png)
 
+## Deployed Link
+https://gio2nice.github.io/weather-dashboard/
+
+## Collaborators
+Shout out to Santana Fernandez for working through this one with me
 
 
 ### Licensing
